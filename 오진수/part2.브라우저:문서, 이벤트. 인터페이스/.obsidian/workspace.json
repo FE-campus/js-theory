@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "966167b4e3251ca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d9440431c6511d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2607f6cb5b098a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 브라우저 환경과 다양한 명세서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8aceba9ef005196",
+    "type": "split",
+    "children": [
+      {
+        "id": "23cf1831cefc5cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd76820d185fdd9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74eb6f23527c93a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e543530f8465160c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd63bdc2a32be77e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a054cd7e658e41e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3a10b3f582e1d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.1 브라우저 환경과 다양한 명세서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25650ed734ef1982",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.1 브라우저 환경과 다양한 명세서.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cdfb4bcbdf253479",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fae96f0f9c8f99bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.1 브라우저 환경과 다양한 명세서.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2607f6cb5b098a62",
+  "lastOpenFiles": [
+    "웹브라우저호스트환경.png.png",
+    "웹브라우저호스트환경.png.md",
+    "1.1 브라우저 환경과 다양한 명세서.md"
+  ]
+}
